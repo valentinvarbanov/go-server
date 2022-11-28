@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+__debug_bin
+
+# Do not commit big data in the repo
+data/data.csv
+*.xlsx
